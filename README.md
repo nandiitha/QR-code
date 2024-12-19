@@ -22,8 +22,8 @@ Created a QR-Code scan page with html and css.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://nandiitha.github.io/QR-code/)
+- Solution URL: [Add solution URL here]((https://www.frontendmentor.io/solutions/qr-code-page-with-html-and-css-uEGFSsLY18))
+- Live Site URL: [Add live URL here](https://nandiitha.github.io/QR-code/)
 
 ### Built with
 
