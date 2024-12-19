@@ -23,7 +23,7 @@ Created a QR-Code scan page with html and css.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://nandiitha.github.io/QR-code/)
 
 ### Built with
 
